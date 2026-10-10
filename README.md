@@ -1,12 +1,12 @@
 # • SHATY 🤖💜
 
-Meu primeiro projeto na área de programação e IA.
+
 
 O **SHATY** começou como uma ideia simples: criar meu próprio assistente para desktop e, ao mesmo tempo, aprender programação construindo alguma coisa de verdade.
 
 Hoje ele já consegue conversar com o Windows, consultar informações do computador, executar algumas tarefas do sistema e conversar com uma **IA local através do Ollama**.
 
-Esse projeto está sendo construído enquanto eu aprendo JavaScript, Electron e Node.js na prática.
+
 
 ---
 
@@ -180,17 +180,6 @@ O SHATY ainda está no começo.
 
 A ideia é continuar transformando esse projeto em um assistente de desktop cada vez mais completo.
 
-Algumas das coisas que quero explorar no futuro:
-
-* Melhorar o entendimento dos comandos
-* Aumentar a quantidade de ferramentas do Windows
-* Criar diagnósticos mais completos
-* Melhorar a memória da conversa
-* Criar novas funções de segurança
-* Pesquisar informações externas quando necessário
-* Criar uma versão `.exe`
-* Melhorar a interface
-* Adicionar novas formas de interação com o PC
 
 Mas por enquanto é isso. 
 
